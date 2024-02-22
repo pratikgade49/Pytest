@@ -1,0 +1,7 @@
+Day Plan:
+01/02/2024
+
+1.Attend Session
+2.Docker Setup
+3.Docker Basics
+4.Dictionary Problems Practice
